@@ -11,3 +11,4 @@ REM ========================================================
 
 :: Disable Ethernet
 netsh interface set interface "Ethernet" admin=disable
+netsh interface set interface "Wi-Fi" admin=disable
