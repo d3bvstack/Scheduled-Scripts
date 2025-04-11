@@ -1,4 +1,4 @@
-# Scheduled Scripts
+# Windows Scheduled Scripts
 
 A collection of Windows batch scripts designed to automatically run during system events (startup, shutdown, logon, logoff) through Windows Group Policy.
 
